@@ -1,4 +1,5 @@
 require 'date'
+puts "RUBY ENUMERABLES"
 zodiac = {
     :aquarius => {
         :element => "Air",
